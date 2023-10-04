@@ -320,7 +320,7 @@
   :ensure t
   :custom
   ((chatgpt-shell-openai-key
-    "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")))
+    "*****")))                             ;;填入密码
 
 (use-package tex
   :ensure auctex
